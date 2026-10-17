@@ -4,7 +4,7 @@ Macroeconomic analysis of Nicaragua using official data and R | HEC Lausanne, Sp
 
 **University of Lausanne · HEC Lausanne**  
 **Course:** International Money and Finance  
-**Semester:** Spring 2024
+**Semester:** Spring 2024 (revised in 2026)
 
 ## 1. Project Overview
 
