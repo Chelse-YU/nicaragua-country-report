@@ -2,8 +2,6 @@
 Macroeconomic analysis of Nicaragua using official data and R | HEC Lausanne, Spring 2024
 
 
-# Nicaragua Macroeconomic Country Report
-
 **University of Lausanne · HEC Lausanne**  
 **Course:** International Money and Finance  
 **Semester:** Spring 2024
